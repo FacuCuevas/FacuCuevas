@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 ⭐Actualmente me encuentro estudiando Desarrollo Software, y a su vez lo complemento <br>     con diversos cursos online de desarrollo web y otros lenguajes.<br>⭐Soy egresado de Argentina Programa, con perfil Full Stack.<br>⭐ Estoy en continua búsqueda de nuevos conocimientos y desafíos para afrontar.
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/facucuevas26/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/facu-cuevas/) 
 
 # 💻 Tech Stack:
