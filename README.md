@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-⭐Actualmente me encuentro estudiando Desarrollo Software, y a su vez lo complemento <br>     con diversos cursos online de desarrollo web y otros lenguajes.<br>⭐Soy egresado de Argentina Programa, con perfil Full Stack.<br>⭐ Estoy en continua búsqueda de nuevos conocimientos y desafíos para afrontar.
+⭐Actualmente me encuentro estudiando Desarrollo Software, y a su vez lo complemento <br>     con diversos cursos online de desarrollo web y otros lenguajes.<br>⭐Soy egresado de Argentina Programa.<br>⭐ Estoy en continua búsqueda de nuevos conocimientos y desafíos para afrontar.
 
 
 ## 🌐 Redes:
